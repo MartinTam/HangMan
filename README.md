@@ -11,7 +11,7 @@ Simple console game of guessing the password (12345)
 * Modules
 
 # How it looks like:
-![Game Over](/images/gameOver.png "Game Over") ![Success](/images/success.png "Success")
+![Game Over](/images/gameOver.png "Game Over")
 
 # License
 
