@@ -1,6 +1,6 @@
 # HangingMan
 
-Simple console game of guessing the password (12345) using Python
+Simple console game of guessing the password (12345) using Python.
 
 # What I learned:
 * Data types
