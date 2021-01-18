@@ -1,2 +1,5 @@
 # HangingMan
-My first programming console application in Python
+***
+Simple console game of guessing the password (12345)
+---
+
