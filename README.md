@@ -11,7 +11,7 @@ Simple console game of guessing the password (12345) using Python.
 * Modules
 
 # How it looks like:
-<p style="text-align: center;"> ![Game Over](/images/gameOver.png "Game Over") </p>
+![Game Over](/images/gameOver.png "Game Over") 
 
 # License
 
