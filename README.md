@@ -1,4 +1,4 @@
-# HangingMan
+# HangMan
 
 Simple console game of guessing the password (12345) using Python.
 
