@@ -15,4 +15,4 @@ Simple console game of guessing the password (12345) using Python.
 
 # License
 
-The code is available under the [MIT](https://github.com/MartinTam/Ctest/blob/master/LICENSE) license.
+The code is available under the [MIT](https://github.com/MartinTam/HangMan/blob/main/LICENSE) license.
